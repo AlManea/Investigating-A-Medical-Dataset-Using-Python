@@ -13,7 +13,7 @@ In this project, we try to anlyze a public health dataset provided originally fr
 ## 2. Installation
 For installing the project, you need to load the dataset from Kaggle, and run the project file using a Jupyter Notebook. The project requires Python 3 or above.
 
-## 3. Files Description:
+## 3. Files Description
 - <b>Investigate-A-Medical-Dataset.ipynb</b>: the project's main jupyter notebook.
 - <b>README.md</b>: file including information on the project.
 
