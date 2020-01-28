@@ -20,5 +20,5 @@ For installing the project, you need to load the dataset from Kaggle, and run th
 ## 4. Results
 The project main results can be found in this <a href="https://medium.com/@abdulrahmanalmana/some-factors-affecting-appointment-missing-in-brazil-92d54dccedcf">blog post </a>.
 
-## Resources/Acknowledgments
+## 5. Resources/Acknowledgments
 This project uses a dataset provided kindly by Kaggle (https://www.kaggle.com/joniarroba/noshowappointments).
